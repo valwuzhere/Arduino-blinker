@@ -9,6 +9,8 @@ This program takes a starting number between 0x00 and 0XFF (inclusive). It then 
 
 Here is the psuedo code given in the instructions in C:
 
+
+
 number = /* choose a number in (0x00, 0xFF] */ ;
 
 count = 0;
