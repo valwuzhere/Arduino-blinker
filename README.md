@@ -13,6 +13,6 @@ number = /* choose a number in (0x00, 0xFF] */ ;
 count = 0;
 while (number > 0) {
 dest[count++] = number;
- * Output number on LEDs *
- * delay 0.5 second *
+  Output number on LEDs 
+  delay 0.5 second 
  number --;
